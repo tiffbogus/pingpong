@@ -6,13 +6,13 @@
 
 ## Description
 
-This webpage contains a form put together using JQuery scripts to demonstrate usage for engaging the user by collecting and compiling information submitted to the webpage.
+This webpage contains a list generated using JavaScript coding initialized by a query answered by the user in order to demonstrate use of looping, conditionals, and variables.
 
 ## Setup
 
 * Load browser of choice
-* Navigate to http://tiffbogus.github.io/jqueryreview/
-* Fill out form
+* Navigate to http://tiffbogus.github.io/pingpong/
+* Enter a number into the field
 * Enjoy!
 
 
